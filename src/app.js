@@ -126,6 +126,7 @@ defineM("witsec-code-editor", function(jQuery, mbrApp, tr) {
 					ifrHTML.editor.setValue("");
 					ifrCSS.editor.setValue("");
 
+					
 					// Put the HTML and CSS in the editor windows
 					ifrHTML.editor.setValue( curr._customHTML.replace(/<\/script/img, "<\/script") );	// Escape closing script tag to prevent bad things from happening
 					ifrCSS.editor.setValue(json2css(curr._styles));
