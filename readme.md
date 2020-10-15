@@ -12,3 +12,5 @@ If you want to improve this extension - awesome! Simply start coding and create 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![Build Mobirise Extension](https://github.com/TWINGSISTER/mobirise-code-editor/workflows/Build%20Mobirise%20Extension/badge.svg)
